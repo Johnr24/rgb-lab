@@ -1,6 +1,6 @@
-##RGB2LAB
+# RGB2LAB
 
-## About
+### About
 
 RGB to lab is a Libary that can convert between RGB and LAB colour cordinate systems (often incorrectly reffered to as colour spaces)
 
